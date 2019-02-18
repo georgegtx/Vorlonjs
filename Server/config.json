@@ -1,9 +1,9 @@
 {
     "baseURL": "",
     "useSSLAzure": false,
-    "useSSL": false,
-    "SSLkey": "cert/server.key",
-    "SSLcert": "cert/server.crt",
+    "useSSL": true,
+    "SSLkey": "cert/v.medialab.services.key",
+    "SSLcert": "cert/v.medialab.services.crt",
     "activateAuth": false,
     "username": "",
     "password": "",
